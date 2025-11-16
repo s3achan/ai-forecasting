@@ -21,5 +21,5 @@ streamlit run app.py
 
 #screenshot
 
+<img width="1253" height="830" alt="image" src="https://github.com/user-attachments/assets/036ba2b0-198d-42c4-9703-97b98e7b10df" />
 
-<img width="1253" height="830" alt="image" src="https://github.com/user-attachments/assets/b46f0827-b45a-4fd9-a15e-382ba5583624" />
