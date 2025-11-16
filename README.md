@@ -18,3 +18,8 @@
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+#screenshot
+
+
+<img width="1253" height="830" alt="image" src="https://github.com/user-attachments/assets/b46f0827-b45a-4fd9-a15e-382ba5583624" />
