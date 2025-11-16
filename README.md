@@ -20,5 +20,11 @@ pip install -r requirements.txt
 streamlit run app.py
 
 #screenshot
-![Screenshot] screenshot.png
+
+
+
+<img width="1325" height="873" alt="image" src="https://raw.githubusercontent.com/s3achan/ai-forecasting/main/screenshot.png" />
+
+
+
 =======
