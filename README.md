@@ -1,6 +1,6 @@
 # AI-Enhanced Forecasting Tool
 
-**Live Demo**: [your-streamlit-app-link] (https://s3achan-ai-forecasting.streamlit.app/)
+**Live Demo**: Streamlit (https://s3achan-ai-forecasting.streamlit.app/)
 **GitHub**: [github.com/s3achan/ai-forecasting](https://github.com/s3achan/ai-forecasting)
 
 ## Features
