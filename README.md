@@ -22,9 +22,5 @@ streamlit run app.py
 #screenshot
 
 
+<img width="1253" height="830" alt="image" src="https://github.com/user-attachments/assets/d6278135-125c-4cc0-a369-08113de079c0" />
 
-<img width="1325" height="873" alt="image" src="https://raw.githubusercontent.com/s3achan/ai-forecasting/main/screenshot.png" />
-
-
-
-=======
